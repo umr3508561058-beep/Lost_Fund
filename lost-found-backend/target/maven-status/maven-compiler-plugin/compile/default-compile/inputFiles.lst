@@ -8,6 +8,7 @@ C:\Users\35085\Lost_Fund\lost-found-backend\src\main\java\com\campus\lostfound\d
 C:\Users\35085\Lost_Fund\lost-found-backend\src\main\java\com\campus\lostfound\dto\LoginResponse.java
 C:\Users\35085\Lost_Fund\lost-found-backend\src\main\java\com\campus\lostfound\dto\RegisterRequest.java
 C:\Users\35085\Lost_Fund\lost-found-backend\src\main\java\com\campus\lostfound\entity\User.java
+C:\Users\35085\Lost_Fund\lost-found-backend\src\main\java\com\campus\lostfound\exception\GlobalExceptionHandler.java
 C:\Users\35085\Lost_Fund\lost-found-backend\src\main\java\com\campus\lostfound\interceptor\JwtInterceptor.java
 C:\Users\35085\Lost_Fund\lost-found-backend\src\main\java\com\campus\lostfound\LostFoundBackendApplication.java
 C:\Users\35085\Lost_Fund\lost-found-backend\src\main\java\com\campus\lostfound\repository\UserRepository.java

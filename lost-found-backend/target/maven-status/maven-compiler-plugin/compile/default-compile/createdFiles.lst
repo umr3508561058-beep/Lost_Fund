@@ -11,5 +11,6 @@ com\campus\lostfound\interceptor\JwtInterceptor.class
 com\campus\lostfound\entity\User.class
 com\campus\lostfound\repository\UserRepository.class
 com\campus\lostfound\LostFoundBackendApplication.class
+com\campus\lostfound\exception\GlobalExceptionHandler.class
 com\campus\lostfound\service\UserService.class
 com\campus\lostfound\common\ApiResponse.class
