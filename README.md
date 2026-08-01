@@ -31,6 +31,8 @@ JWT 登录认证
 Lombok
 Validation 参数校验、
 
+加入 Spring Data JPA 后，可以把 Java 类和数据库表对应起来
+
 ## 安装框架
 
 curl.exe "https://start.spring.io/starter.zip?type=maven-project&language=java&groupId=com.campus&artifactId=lost-found-backend&name=lost-found-backend&packageName=com.campus.lostfound&packaging=jar&javaVersion=17&dependencies=web,mysql,validation,lombok" -o lost-found-backend.zip
@@ -46,6 +48,16 @@ packaging=jar& 最终打包为 JAR 文件
 javaVersion=17& 使用 Java 17
 dependencies=web,mysql,validation,lombok" 需要的功能依赖
 -o lost-found-backend.zip
+
+### 依赖
+web
+mysql
+validation
+lombok
+/////添加
+Spring Data JPA 依赖
+BCrypt 密码加密
+添加 JWT 依赖
 
 ## 终端运行
 
